@@ -2,6 +2,8 @@
 
 使用 Rust 注入并操作 PVZ 游戏的示例性工具。
 
+内部实现参考了 [pvzclass](https://github.com/Lazuplis-Mei/pvzclass)。
+
 ```rust
 use pvz_demo::*;
 
